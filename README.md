@@ -1,6 +1,8 @@
 # AlexWFH2024
 AlexWFH2024
 
+# This repo is a next.js app from create-app with a small alter
+
 # Alex Bring Your Kid To Work April 2024
 Alex Bring Your Kid To Work April 2024
 
